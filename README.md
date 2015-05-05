@@ -11,3 +11,4 @@ WooCommerce Dynamic Pricing & Discounts](http://codecanyon.net/item/woocommerce-
 Chimpy - [MailChimp WordPress](http://codecanyon.net/item/chimpy-mailchimp-wordpress-plugin/6290216) Plugin - the most complete MailChimp WordPress plugin. Period.
 * WooChimp - [WooCommerce MailChimp](http://codecanyon.net/item/woochimp-woocommerce-mailchimp-integration/6044286) Integration - turns your WooCommerce store into a powerful marketing machine.
 * [WooCommerce PDF Invoice](http://codecanyon.net/item/woocommerce-pdf-invoice/5951088) - professional and feature-rich invoicing extension for WooCommerce.
+* [WooCommerce Custom Fields & Product Add-ons](http://codecanyon.net/item/woocommerce-custom-fields-product-addons/11332742) - create custom fields for WooCommerce site, sell configurable products and product add-ons.
