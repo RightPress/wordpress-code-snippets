@@ -12,5 +12,5 @@ Chimpy - [MailChimp WordPress](http://codecanyon.net/item/chimpy-mailchimp-wordp
 * WooChimp - [WooCommerce MailChimp](http://codecanyon.net/item/woochimp-woocommerce-mailchimp-integration/6044286) Integration - turns your WooCommerce store into a powerful marketing machine.
 * [WooCommerce PDF Invoice](http://codecanyon.net/item/woocommerce-pdf-invoice/5951088) - professional and feature-rich invoicing extension for WooCommerce.
 * [WooCommerce Custom Fields & Product Add-ons](http://codecanyon.net/item/woocommerce-custom-fields-product-addons/11332742) - create custom fields for WooCommerce site, sell configurable products and product add-ons.
-* WooShip [WooCommerce Shipping Plugin] (http://codecanyon.net/item/wooship-woocommerce-shipping-plugin/13593884) - universal shipping extension for WooCommerce which allows to set up virtually any shipping scenario.
+* WooShip - [WooCommerce Shipping Plugin] (http://codecanyon.net/item/wooship-woocommerce-shipping-plugin/13593884) - universal shipping extension for WooCommerce which allows to set up virtually any shipping scenario.
 * [WooCommerce Email Center] (http://codecanyon.net/item/woocommerce-email-center/13907681) - create, customize and send highly targeted WooCommerce emails.
